@@ -2,6 +2,8 @@
 
 In this application, you can ask a question that will get into the database and be saved in localStorage. The authentication functionality is also provided, you can enter the desired login / password and get access to all questions.
 
+GitHub Pages: https://kirill-web-development.github.io/Application-for-asking-questions/
+
 ## Technologies I have worked with.
 
 - HTML
@@ -9,6 +11,7 @@ In this application, you can ask a question that will get into the database and 
 - Native JS:
     - asynchronous functions
     - fetch API (GET, POST)
+    - LocalStorage
 - [Firebase](https://firebase.google.com/index.html):
     - realtime database for all questions
     - auth REST API (Sign in with email / password)
